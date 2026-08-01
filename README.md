@@ -29,15 +29,15 @@ The ontology comprises 156 classes, 104 object properties, 16 data properties, a
 
 The latest stable release of FMLO is available at:
 
-* **OWL (RDF/XML):** `https://w3id.org/FMLO/fmlo.owl`
-* **Turtle:** `https://w3id.org/FMLO/fmlo.ttl`
+* **OWL (RDF/XML):** `[https://w3id.org/FMLO/fmlo.owl](https://w3id.org/FMLO/fmlo.owl)`
+* **Turtle:** `[https://w3id.org/FMLO/fmlo.ttl](https://w3id.org/FMLO/fmlo.ttl)`
 * **Documentation:** `https://w3id.org/FMLO/doc`
 
 ## How to Cite
 
 If you use FMLO in academic work, please cite it as:
 
-Otávio de Paula Albuquerque. FMLO: Fairness in Machine Learning Ontology. 2026. Available at: `https://w3id.org/FMLO/ontology`
+Otávio de Paula Albuquerque. FMLO: Fairness in Machine Learning Ontology. 2026. Available at: `[https://w3id.org/FMLO/ontology](https://w3id.org/FMLO/fmlo.owl)`
 
 Or use the BibTeX entry:
 
