@@ -5,7 +5,7 @@ It is grounded in the Basic Formal Ontology (BFO) and reuses established fairnes
 
 * **Ontology IRI:** `https://w3id.org/FMLO/ontology` \[replace with your registered w3id, or your GitHub Pages raw file URL if you have not registered one yet, e.g. `https://[seu-usuario].github.io/FMLO/ontology.owl`]
 
-**Maintainer:** [Otávio de Paula Albuquerque](https://github.com/oalbuquerque) (GitHub ID: `oalbuquerque`) · [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=53VMpVEAAAAJ) · [ORCID](https://orcid.org/0000-0002-2504-3707)
+**Maintainer:** [Otávio de Paula Albuquerque](https://github.com/oalbuquerque) (GitHub ID: `oalbuquerque`) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=53VMpVEAAAAJ) | [ORCID](https://orcid.org/0000-0002-2504-3707) | [Lattes](http://lattes.cnpq.br/4045514018382962)
 
 ## Motivation
 
