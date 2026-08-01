@@ -3,7 +3,7 @@
 FMLO (Fairness in Machine Learning Ontology) is an ontology designed for the semantic representation of the fairness landscape in machine learning.
 It is grounded in the Basic Formal Ontology (BFO) and reuses established fairness- and statistics-related resources, integrating bias sources, sensitive attributes, sociotechnical solutions, and fairness notions into a unified, computable framework to support fairness-aware analysis, auditing, and decision-making across the ML lifecycle.
 
-* **Ontology IRI:** `https://w3id.org/FMLO/ontology` \[replace with your registered w3id, or your GitHub Pages raw file URL if you have not registered one yet, e.g. `https://[seu-usuario].github.io/FMLO/ontology.owl`]
+* **Ontology IRI:** [https://w3id.org/FMLO/fmlo.owl](https://w3id.org/FMLO/fmlo.owl)
 
 **Maintainer:** [Otávio de Paula Albuquerque](https://github.com/oalbuquerque) (GitHub ID: `oalbuquerque`) | [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=53VMpVEAAAAJ) | [ORCID](https://orcid.org/0000-0002-2504-3707) | [Lattes](http://lattes.cnpq.br/4045514018382962)
 
