@@ -43,7 +43,7 @@ Or use the BibTeX entry:
 
 ```bibtex
 @misc{fmlo2026,
-  author       = {Albuquerque, Otávio de Paula},
+  author       = {de Paula Albuquerque, Otavio},
   title        = {FMLO: Fairness in Machine Learning Ontology},
   year         = {2026},
   howpublished = {\url{https://w3id.org/FMLO/ontology}},
