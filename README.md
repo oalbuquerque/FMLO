@@ -11,12 +11,13 @@ It is grounded in the Basic Formal Ontology (BFO) and reuses established fairnes
 
 The rapid adoption of machine learning in high-stakes decision-making has been accompanied by growing evidence of algorithmic bias and discrimination, yet fairness-related knowledge remains fragmented across heterogeneous definitions, metrics, techniques, and assumptions. FMLO addresses this fragmentation by providing a semantic framework to model concepts such as:
 
-* Bias sources across the ML lifecycle (e.g., historical, representation, measurement, aggregation bias)
-* Sensitive attributes and their legal classification (protected characteristics, sensitive personal data)
-* Sociotechnical solutions for bias mitigation and discovery (pre-, in-, and post-processing techniques; exploratory and measurement methods; structural and methodological contributions)
+* Bias sources across the ML lifecycle
+* Sensitive attributes and their legal classification
+* Sociotechnical solutions for bias mitigation and discovery
 * Fairness notions, classified along ethical, normative, sociotechnical, methodological, and criterion-level dimensions
-* Fairness metrics and their mathematical operationalization (difference-based, ratio-based, statistical-test-based, etc.)
-* Legal frameworks governing the use of sensitive attributes (anti-discrimination law, data protection law, AI regulation)
+* Fairness metrics and their mathematical operationalization
+* The relation between those areas above
+
 
 ## Scope and Integration
 
