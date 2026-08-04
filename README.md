@@ -42,7 +42,7 @@ Otávio de Paula Albuquerque. FMLO: Fairness in Machine Learning Ontology. 2026.
 Or use the BibTeX entry:
 
 ```bibtex
-@misc{fmlo2026,
+@misc{otavio2026fmlo,
   author       = {de Paula Albuquerque, Otavio},
   title        = {FMLO: Fairness in Machine Learning Ontology},
   year         = {2026},
