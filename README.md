@@ -31,7 +31,7 @@ The latest stable release of FMLO is available at:
 
 * **OWL (RDF/XML):** [https://w3id.org/FMLO/fmlo.owl](https://w3id.org/FMLO/fmlo.owl)
 * **Turtle:** [https://w3id.org/FMLO/fmlo.ttl](https://w3id.org/FMLO/fmlo.ttl)
-* **Documentation:** `https://w3id.org/FMLO/doc`
+* **Documentation:** `https://w3id.org/FMLO/`
 
 ## How to Cite
 
