@@ -22,8 +22,8 @@
         <terms:creator>Otavio de Paula Albuquerque</terms:creator>
         <rdfs:label xml:lang="en">Fairness in Machine Learning Ontology</rdfs:label>
         <rdfs:label xml:lang="pt">Ontologia de Fairness em Aprendizado de Máquina</rdfs:label>
-        <owl:versionIRI rdf:resource="http://www.usp.br/fmlo/1.1.0"/>
-        <owl:versionInfo>1.1.0</owl:versionInfo>
+        <owl:versionIRI rdf:resource="http://www.usp.br/fmlo/1.0.0"/>
+        <owl:versionInfo>1.0.0</owl:versionInfo>
         <owl:priorVersion rdf:resource="http://www.usp.br/fmlo/1.0.0"/>
         <rdfs:comment xml:lang="en">Maintenance policy: semantic versioning (PATCH = annotations; MINOR = inference-preserving additions; MAJOR = axiom changes or BFO realignment). Update triggers: periodic (at least biennial), regulatory, corrective. Every release passes a HermiT consistency check and SPARQL regression of all competency questions. Deprecated terms are retained with owl:deprecated and IAO_0100001.</rdfs:comment>
         <rdfs:comment xml:lang="pt">Política de manutenção: versionamento semântico (PATCH = anotações; MINOR = acréscimos que preservam inferências; MAJOR = alteração de axiomas ou do alinhamento BFO). Gatilhos: periódico (no mínimo bienal), regulatório e corretivo. Toda versão passa por verificação de consistência no HermiT e regressão SPARQL de todas as questões de competência. Termos obsoletos são mantidos com owl:deprecated e IAO_0100001.</rdfs:comment>
