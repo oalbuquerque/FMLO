@@ -25,14 +25,6 @@ The ontology is implemented in OWL 2 using Protégé, following the OntoForInfoS
 
 The ontology comprises 156 classes, 104 object properties, 16 data properties, and 121 individuals, totaling 2,754 axioms, and was validated through automated reasoning (HermiT), LLM-assisted auditing, and expert panel review.
 
-## Downloads
-
-The latest stable release of FMLO is available at:
-
-* **OWL (RDF/XML):** [https://w3id.org/FMLO/fmlo.owl](https://w3id.org/FMLO/fmlo.owl)
-* **Turtle:** [https://w3id.org/FMLO/fmlo.ttl](https://w3id.org/FMLO/fmlo.ttl)
-* **Documentation:** `https://w3id.org/FMLO/`
-
 ## Maintenance and Versioning
 
 FMLO follows a formal maintenance and evolution policy, also declared in the ontology header annotations, so that it can keep pace with changes in fairness research and in the legal instruments that frame it.
@@ -69,17 +61,16 @@ Every change goes through five steps before release:
 Terms are never deleted. Obsolete classes and properties are marked with `owl:deprecated` and, when a successor exists, annotated with the IAO property *term replaced by* (`IAO_0100001`), so that IRIs remain stable for any resource referencing earlier versions.
 
 ## Changelog
-
-### v1.1.0
-- Added formal maintenance and versioning policy to the ontology header.
-- Extended the legal framework cluster to the level of legal provisions (`LegalProvision`), with the property chain `protectedByProvision ∘ isProvisionOf → protectedBy`.
-- Aligned sensitive attributes with LGPD provisions (Art. 5, II; Art. 6, IX; Art. 11; Art. 20).
-- Added Brazilian anti-discrimination legislation (Laws No. 9,029/1995, 7,716/1989, and 13,146/2015).
-- Added ANPD regulatory instruments (`RegulatoryInstrument`), annotated as preparatory.
-- Reworded the definitions of `Continuous`, `Age`, `Gender`, `Causal`, and `Geometric` to remove verbal repetition of the defined term.
-
 ### v1.0.0
 - Initial release, as presented in the doctoral thesis.
+
+## Downloads
+
+The latest stable release of FMLO is available at:
+
+* **OWL (RDF/XML):** [https://w3id.org/FMLO/fmlo.owl](https://w3id.org/FMLO/fmlo.owl)
+* **Turtle:** [https://w3id.org/FMLO/fmlo.ttl](https://w3id.org/FMLO/fmlo.ttl)
+* **Documentation:** `https://w3id.org/FMLO/`
 
 ## How to Cite
 
